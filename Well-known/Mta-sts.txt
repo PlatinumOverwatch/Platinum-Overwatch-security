@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mailserver.businessidentity.llc
 max_age: 604800
